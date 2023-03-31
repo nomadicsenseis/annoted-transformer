@@ -1,0 +1,3 @@
+!pip install -q torchdata==0.3.0 torchtext==0.12 spacy==3.2 altair GPUtil
+!python -m spacy download de_core_news_sm
+!python -m spacy download en_core_web_sm
